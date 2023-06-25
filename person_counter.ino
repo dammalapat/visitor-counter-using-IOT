@@ -2,7 +2,7 @@
 #include <LiquidCrystal_I2C.h>
 
 #define LED_PIN 32 // LED pin
-#define IR_SENSOR_PIN 33 // IR sensor pin
+#define IR_SENSOR_PIN 33 // IR sensor pin 
 int t = 1;
 int buzzer = 4;
 const float threshold = 100;
